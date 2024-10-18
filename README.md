@@ -2,7 +2,7 @@
 
 I am currently a third-year student pursuing a Bachelor's Degree in Computer Science. During my academic journey, I have developed a passion for programming, problem-solving, and creating impactful software solutions. 
 
-### 💻 Programming Skills:
+## Programming Skills:
 - **Languages**: Java, C#, Kotlin
 - **Interests**: FrontEnd Development, Mobile Development, Software Engineering
 
@@ -10,14 +10,14 @@ I have been consistently expanding my skillset through various projects, many of
 
 Feel free to explore my repositories and see the projects I've worked on! You can also visit my [Portfolio](https://filipelutz.github.io/portfolio/index.html) to check out some of my featured projects.
 
-#### Currently Learning:
+### Currently Learning:
 - Cyber Security Defence & Operations
 - Game Design ( Blender, Unity )
 - Mobile App Development ( Android )
 - Back-End Web Development
 - Software Engineering
 
-#### 📫 Let's Connect:
+### 📫 Let's Connect:
 - [LinkedIn](https://ie.linkedin.com/in/filipelutz)
 - [Portfolio](https://filipelutz.github.io/index.html)
 
