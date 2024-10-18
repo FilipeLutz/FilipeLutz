@@ -8,7 +8,7 @@ I am currently a third-year student pursuing a Bachelor's Degree in Computer Sci
 
 I have been consistently expanding my skillset through various projects, many of which are available in my repositories. Each of these projects reflects my interest in learning new technologies and building real-world applications. I am constantly exploring new programming paradigms and improving my coding proficiency.
 
-Feel free to explore my repositories and see the projects I've worked on! You can also visit my [Portfolio](https://filipelutz.github.io/portfolio/index.html) to check out some of my featured projects.
+Feel free to explore my repositories and see the projects I've worked on! You can also visit my [Portfolio](https://filipelutz.github.io/portfolio/index.html).
 
 ### Currently Learning:
 - Cyber Security Defence & Operations
