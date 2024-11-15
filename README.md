@@ -3,7 +3,7 @@
 I am currently a third-year student pursuing a Bachelor's Degree in Computer Science. During my academic journey, I have developed a passion for programming, problem-solving, and creating impactful software solutions. 
 
 ## Programming Skills:
-- ### **Languages**: Java, C#, Kotlin
+- ### **Languages**: Java, C#, Kotlin, HTML, JavaScript
 - ### **Interests**: FrontEnd Development, Mobile Development, Software Engineering
 
 I have been consistently expanding my skillset through various projects, many of which are available in my repositories. Each of these projects reflects my interest in learning new technologies and building real-world applications. I am constantly exploring new programming paradigms and improving my coding proficiency.
