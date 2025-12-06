@@ -1,6 +1,6 @@
 # Hi there! I'm **Filipe Lutz** 👋
 
-I am a Computer Science Graduate and Junior Marketing Executive, combining technical thinking with creativity across digital platforms, content and user-focused experiences. I have a strong foundation in software engineering, web development and mobile application development, with hands-on experience in coding, problem-solving and building digital solutions.
+I am a **Computer Science Graduate** working as a **Junior Marketing Executive**, combining technical thinking with creativity across digital platforms, content and user-focused experiences. I have a strong foundation in software engineering, web development and mobile application development, with hands-on experience in coding, problem-solving and building digital solutions.
 
 ---
 
