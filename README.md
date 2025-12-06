@@ -1,29 +1,38 @@
-# Hi there! I'm **Filipe Lutz**
+# Hi there! I'm **Filipe Lutz** 👋
 
-I am currently a third-year student pursuing a Bachelor's Degree in Computer Science. During my academic journey, I have developed a passion for programming, problem-solving, and creating impactful software solutions. 
+I am a Computer Science Graduate and Junior Marketing Executive, combining technical thinking with creativity across digital platforms, content and user-focused experiences. I have a strong foundation in software engineering, web development and mobile application development, with hands-on experience in coding, problem-solving and building digital solutions.
 
-## Programming Skills:
-- ### **Languages**: Java, C#, Kotlin, HTML, JavaScript
-- ### **Interests**: FrontEnd Development, Mobile Development, Software Engineering
+---
 
-I have been consistently expanding my skillset through various projects, many of which are available in my repositories. Each of these projects reflects my interest in learning new technologies and building real-world applications. I am constantly exploring new programming paradigms and improving my coding proficiency.
+### Technical Skillset
+Languages: Java · C# · Kotlin · HTML · CSS · JavaScript  
+Areas of Interest: Web Development · Mobile Development · Software Engineering · UX  
+Also Interested In: Marketing & Digital Marketing (SEO, Branding, Analytics & Web Content)
 
-Feel free to explore my repositories and see the projects I've worked on! You can also visit my [Portfolio](https://filipelutz.github.io/portfolio/index.html).
+I enjoy working where technology and communication meet, whether developing features, improving user experiences or creating digital solutions designed with purpose and clarity.
 
-### Currently Learning:
-- Cyber Security Defence & Operations
-- Game Design ( Blender, Unity )
-- Mobile App Development ( Android )
-- Back-End Web Development
-- Software Engineering
+---
 
-### Certifications:
-- **Google Business Intelligence/Data Analytics Professional Certificate** (2024)  
-  *Awarded by INCO Academy in partnership with Google.*  
-  *Skills learned*: Data transformation, visualization, modeling (Spreadsheets, SQL, Tableau, R), troubleshooting, and customer service.
+### 📌 Currently Exploring
+• Cybersecurity & Digital Defence  
+• Game Design (Blender, Unity)  
+• Android Development  
+• Backend Web Development  
+• Software Engineering Practices  
+• Digital Marketing Strategy & Content Performance  
 
-## Let's Connect:
-- ### [LinkedIn](https://ie.linkedin.com/in/filipelutz)
-- ### [Portfolio](https://filipelutz.github.io/index.html)
+---
 
-#### Thanks for stopping by! I'm always open to collaboration, so feel free to reach out if you'd like to work together on something exciting!
+### 📜 Certification
+Google Business Intelligence / Data Analytics Professional Certificate 2024  
+Skills: Data transformation, visualization, SQL, Tableau, R, spreadsheet analysis, troubleshooting, customer support.
+
+---
+
+### 🔗 Let's Connect
+Portfolio: **https://filipelutz.github.io**  
+LinkedIn: **https://linkedin.com/in/filipelutz**
+
+---
+
+Thanks for stopping by! I'm always open to collaboration, ideas and project discussions, feel free to reach out anytime!
